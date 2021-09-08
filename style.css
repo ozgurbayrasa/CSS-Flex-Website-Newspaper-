@@ -59,6 +59,7 @@ article {
     background-color: #a29bfe;
 }
 a{
+    height: 20%;
     text-decoration: none;
     font-size: 40px;
     color: gray
